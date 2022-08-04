@@ -2,8 +2,7 @@
   "name": "@skybackend/mongo-query",
   "version": "1.1.1",
   "main": "lib/index.js",
-  "repository": "git@gitlabci.rovzane.com:back/panel/mongo-query.git",
-  "author": "rostamiani <mahdi.temps@gmail.com>",
+  "author": "reza gazeri",
   "license": "MIT",
   "scripts": {
     "build": "tsc"
