@@ -1,0 +1,1 @@
+{"version":3,"file":"mongo-query-options.interface.d.ts","sourceRoot":"","sources":["../../src/interfaces/mongo-query-options.interface.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,kBAAkB;IACjC,WAAW,CAAC,EAAE,MAAM,EAAE,CAAC;IACvB,WAAW,CAAC,EAAE,MAAM,EAAE,CAAC;CACxB"}
